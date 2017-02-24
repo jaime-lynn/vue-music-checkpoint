@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /**
+* YOU SHOULD PROBABLY MAKE THIS LOOK BETTER :)
+* BOOTSTRAP IS FOR THE WEAK FLEXBOX IS KING
+* -- McCall
+**/
+  /*.my-tunes{
+  display: inline-block;
+  min-height: 500px;
+  max-width: 50%;
+  background: purple;
+}
+
+.itunes{
+  display: inline-block;
+  background: pink;
+  min-height: 500px;
+  max-width: 45%;
+}*/
+body {
+    padding-top: 20px;
+    background: url(/static/img/record-player.c4d1f23.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+input {
+    text-shadow: black 0.1em 0.1em 0.2em;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h3 {
+    text-shadow: black 0.1em 0.1em 0.2em;
+    color: white;
+    text-align: center;
+}
+
+/*# sourceMappingURL=app.fad2e9f001524eb41e554f2be130ceaa.css.map*/
