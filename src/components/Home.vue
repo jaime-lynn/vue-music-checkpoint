@@ -2,10 +2,10 @@
   <div class="home">
     <!-- YOU WILL PROBABLY END UP WITH SOMETHING LIKE THIS -->
     <div class="row">
-      <div class="col s6">
+      <div class="col s12 m6">
         <my-tunes class="my-tunes"></my-tunes>
       </div>
-      <div class="col s6">
+      <div class="col s12 m6">
         <itunes class="itunes"></itunes>
       </div>
     </div>
